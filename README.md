@@ -1,7 +1,7 @@
 # Hackerz Lab - Automation Tool
 
 **Author**: Marttin Saji  
-**GitHub**: [Marttin Saji](https://github.com/hackerz-lab)
+**GitHub**: [Hackerz Lab](https://github.com/hackerz-lab)
 
 ## About the Tool
 Hacknable is a powerful automation tool designed for penetration testers, bug bounty hunters, and ethical hackers. This script integrates several essential functions to streamline reconnaissance, scanning, and exploitation workflows in Kali Linux. All results are saved in an organized structure for easy analysis.
@@ -24,25 +24,25 @@ To quickly install dependencies, you can run the script's dependency checker.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hackerz-lab/.git
+   git clone https://github.com/hackerz-lab/Automation-Script.git
    cd hackerz-lab
    ```
 
 2. Make the script executable:
    ```bash
-   chmod +x hackerz_lab.sh
+   chmod +x Hacknable-Pro.sh
    ```
 
 3. Install required dependencies (optional but recommended):
    ```bash
-   ./hackerz_lab.sh
+   ./Hacknable-Pro.sh
    # Choose option 1 from the menu to check and install dependencies
    ```
 
 ## Usage
 1. Run the script:
    ```bash
-   ./hackerz_lab.sh
+   ./Hacknable-Pro.sh
    ```
 2. Choose an option from the menu:
    - **1**: Check Dependencies
@@ -68,5 +68,5 @@ This tool is free to use for ethical hacking and educational purposes. The autho
 
 ## Contact
 For queries, suggestions, or contributions, contact **Marttin Saji** via:
-- **GitHub**: [Marttin Saji](https://github.com/YourGitHubUsername)
+- **GitHub**: [Hackerz Lab](https://github.com/hackerz-lab)
 - **Email**: [Martinsaji26@gmail.com](mailto:Martinsaji26@gmail.com)
