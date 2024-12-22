@@ -1,0 +1,3 @@
+nmap
+sublist3r
+searchsploit
